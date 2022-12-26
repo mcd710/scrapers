@@ -1,0 +1,13 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    max-width: 50cm;
+    color: #333;
+    margin: auto;
+}
+
+a {
+    display: block;
+    color: #333;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
